@@ -1,6 +1,6 @@
 msgpack==1.0.0
-ansible==2.9.7	ansible==2.9.7
-cryptography	cryptography==2.9
-passlib	passlib==1.7.2
-netaddr	netaddr==0.7.19
-bumpversion	bumpversion==0.5.3
+ansible==2.9.7
+cryptography==2.9
+passlib==1.7.2
+netaddr==0.7.19
+bumpversion==0.5.3
