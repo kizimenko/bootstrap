@@ -1,5 +1,5 @@
 msgpack
-ansible
+ansible==2.9.7
 cryptography
 passlib
 netaddr
